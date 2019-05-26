@@ -1,0 +1,13 @@
+.Container {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    gap: 1rem;
+}
+
+.item {
+    background-color: #009688;
+    padding: 1rem;
+    text-align: center;
+    border-color: white;
+    border-radius: 0.9rem;
+}
